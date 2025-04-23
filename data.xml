@@ -1,0 +1,310 @@
+<data>
+    <pair>
+        <input>Hello.</input>
+        <output>Hello. eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hello! eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hi. eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hi! eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hey. eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hey! eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hi! How are you? eos1234</output>
+    </pair>
+    <pair>
+        <input>Hello.</input>
+        <output>Hey there! How are you? eos1234</output>
+    </pair>
+    <pair>
+        <input>Whats your name?</input>
+        <output>My name is Toketory. eos1234</output>
+    </pair>
+    <pair>
+        <input>Whats your name?</input>
+        <output>My name is Toketory. eos1234</output>
+    </pair>
+    <pair>
+        <input>Whats your name?</input>
+        <output>My name is Toketory. eos1234</output>
+    </pair>
+    <pair>
+        <input>Whats your name?</input>
+        <output>My name is Toketory. eos1234</output>
+    </pair>
+    <pair>
+        <input>How are you?</input>
+        <output>I'm doing well, thank you! eos1234</output>
+    </pair>
+    <pair>
+        <input>What's your name?</input>
+        <output>I'm an AI here to help you. eos1234</output>
+    </pair>
+    <pair>
+        <input>Tell me a joke.</input>
+        <output>Why did the scarecrow win an award? Because he was outstanding in his field! eos1234</output>
+    </pair>
+    <pair>
+        <input>What's the weather like today?</input>
+        <output>I’m not sure, but you can check your local forecast for up-to-date information. eos1234</output>
+    </pair>
+    <pair>
+        <input>Define serendipity.</input>
+        <output>Serendipity is the occurrence of happy or beneficial events by chance. eos1234</output>
+    </pair>
+    <pair>
+        <input>Translate “good morning” to Spanish.</input>
+        <output>“Good morning” in Spanish is “buenos días.” eos1234</output>
+    </pair>
+    <pair>
+        <input>What is 7 multiplied by 8?</input>
+        <output>7 multiplied by 8 is 56. eos1234</output>
+    </pair>
+    <pair>
+        <input>Who wrote “Pride and Prejudice”?</input>
+        <output>“Pride and Prejudice” was written by Jane Austen. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I boil an egg?</input>
+        <output>Place eggs in boiling water for about 9–12 minutes, then transfer to cold water. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the capital of France?</input>
+        <output>The capital of France is Paris. eos1234</output>
+    </pair>
+    <pair>
+        <input>Give me a fun fact.</input>
+        <output>Honey never spoils; archaeologists have found edible honey in ancient Egyptian tombs. eos1234</output>
+    </pair>
+    <pair>
+        <input>How far is the Moon from Earth?</input>
+        <output>The average distance to the Moon is about 384,400 kilometers. eos1234</output>
+    </pair>
+    <pair>
+        <input>What does HTTP stand for?</input>
+        <output>HTTP stands for HyperText Transfer Protocol. eos1234</output>
+    </pair>
+    <pair>
+        <input>Suggest a good book to read.</input>
+        <output>“The Alchemist” by Paulo Coelho is a great read about following your dreams. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the boiling point of water?</input>
+        <output>At sea level, water boils at 100 °C (212 °F). eos1234</output>
+    </pair>
+    <pair>
+        <input>How can I improve my productivity?</input>
+        <output>Try time-blocking, taking regular breaks, and minimizing distractions. eos12234</output>
+    </pair>
+    <pair>
+        <input>Define photosynthesis.</input>
+        <output>Photosynthesis is the process by which plants convert sunlight into chemical energy. eos1234</output>
+    </pair>
+    <pair>
+        <input>What time is it in Tokyo?</input>
+        <output>I don’t have real-time data, but Tokyo is UTC+9. You can calculate from your current time. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I say “thank you” in Japanese?</input>
+        <output>“Thank you” in Japanese is “arigatō.” eos1234</output>
+    </pair>
+    <pair>
+        <input>What is AI?</input>
+        <output>AI, or artificial intelligence, refers to machines simulating human intelligence processes. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I make pancakes?</input>
+        <output>Mix flour, milk, eggs, and a pinch of salt; pour batter on a hot griddle; flip when bubbles form. eos1234</output>
+    </pair>
+    <pair>
+        <input>What are the primary colors?</input>
+        <output>The primary colors of light are red, green, and blue. eos1234</output>
+    </pair>
+    <pair>
+        <input>Who painted the Mona Lisa?</input>
+        <output>The Mona Lisa was painted by Leonardo da Vinci. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the speed of light?</input>
+        <output>The speed of light in a vacuum is approximately 299,792 kilometers per second. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I reset my password?</input>
+        <output>Click “Forgot password” on the login page and follow the instructions sent to your email. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is blockchain?</input>
+        <output>Blockchain is a distributed ledger technology that records transactions in a secure, immutable way. eos1234</output>
+    </pair>
+    <pair>
+        <input>Explain the Pythagorean theorem.</input>
+        <output>In a right triangle, a² + b² = c², where c is the hypotenuse. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I tie a tie?</input>
+        <output>Place the wide end over the narrow, loop under, bring over, and pull through the knot. eos1234</output>
+    </pair>
+    <pair>
+        <input>What causes rainbows?</input>
+        <output>Rainbows form when sunlight is refracted, reflected, and dispersed by water droplets. eos1234</output>
+    </pair>
+    <pair>
+        <input>Where is the Great Barrier Reef?</input>
+        <output>The Great Barrier Reef is off the northeast coast of Australia, in the Coral Sea. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is a haiku?</input>
+        <output>A haiku is a Japanese poem with a 5-7-5 syllable structure. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I check disk usage on Linux?</input>
+        <output>Use the <code>df -h</code> command in the terminal to view disk usage in human-readable format. eos1234</output>
+    </pair>
+    <pair>
+        <input>What’s the tallest mountain?</input>
+        <output>Mount Everest, at 8,848 meters, is the tallest mountain above sea level. eos1234</output>
+    </pair>
+    <pair>
+        <input>Define recursion.</input>
+        <output>Recursion is a process where a function calls itself directly or indirectly. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I say “I love you” in French?</input>
+        <output>“I love you” in French is “je t’aime.” eos1234</output>
+    </pair>
+    <pair>
+        <input>What is Newton’s second law?</input>
+        <output>Newton’s second law states that F = ma (force equals mass times acceleration). eos1234</output>
+    </pair>
+    <pair>
+        <input>How can I learn programming?</input>
+        <output>Start with an easy language like Python, follow tutorials, and build small projects. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is a phishing attack?</input>
+        <output>A phishing attack tricks victims into revealing sensitive information via deceptive emails or sites. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I bake bread?</input>
+        <output>Mix flour, yeast, water, and salt; knead, let rise, shape, then bake at about 200 °C for 30 minutes. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is a neural network?</input>
+        <output>A neural network is a computational model inspired by the human brain’s network of neurons. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the capital of Italy?</input>
+        <output>The capital of Italy is Rome. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the chemical symbol for water?</input>
+        <output>The chemical symbol for water is H₂O. eos1234</output>
+    </pair>
+    <pair>
+        <input>Who discovered penicillin?</input>
+        <output>Penicillin was discovered by Alexander Fleming. eos1234</output>
+    </pair>
+    <pair>
+        <input>Define democracy.</input>
+        <output>Democracy is a system of government where power is vested in the people and exercised by them directly or indirectly through a system of representation. eos1234</output>
+    </pair>
+    <pair>
+        <input>Translate “hello” to German.</input>
+        <output>“Hello” in German is “Hallo.” eos1234</output>
+    </pair>
+    <pair>
+        <input>What is 9 times 9?</input>
+        <output>9 times 9 is 81. eos1234</output>
+    </pair>
+    <pair>
+        <input>Who wrote “To Kill a Mockingbird”?</input>
+        <output>“To Kill a Mockingbird” was written by Harper Lee. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I make a simple salad?</input>
+        <output>Mix lettuce, tomatoes, cucumbers, and your favorite dressing. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the capital of Japan?</input>
+        <output>The capital of Japan is Tokyo. eos1234</output>
+    </pair>
+    <pair>
+        <input>Give me another fun fact.</input>
+        <output>A group of owls is called a parliament. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the circumference of the Earth?</input>
+        <output>The Earth's circumference at the equator is about 40,075 kilometers. eos1234</output>
+    </pair>
+    <pair>
+        <input>What does URL stand for?</input>
+        <output>URL stands for Uniform Resource Locator. eos1234</output>
+    </pair>
+    <pair>
+        <input>Suggest a classic novel.</input>
+        <output>“1984” by George Orwell is a powerful classic novel. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the freezing point of water?</input>
+        <output>At sea level, water freezes at 0 °C (32 °F). eos1234</output>
+    </pair>
+    <pair>
+        <input>How can I reduce stress?</input>
+        <output>Try meditation, exercise, deep breathing, or spending time in nature. eos1234</output>
+    </pair>
+    <pair>
+        <input>Define biome.</input>
+        <output>A biome is a large naturally occurring community of flora and fauna occupying a major habitat, e.g., forest or tundra. eos1234</output>
+    </pair>
+    <pair>
+        <input>What time is it in London?</input>
+        <output>I don’t have real-time data, but London is UTC+0 (GMT) or UTC+1 (BST). You can calculate from your current time. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I say “goodbye” in French?</input>
+        <output>“Goodbye” in French is “au revoir.” eos1234</output>
+    </pair>
+    <pair>
+        <input>What is machine learning?</input>
+        <output>Machine learning is a type of AI that allows software applications to become more accurate at predicting outcomes without being explicitly programmed. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I scramble eggs?</input>
+        <output>Whisk eggs, pour into a hot, buttered pan, and stir gently until cooked. eos1234</output>
+    </pair>
+    <pair>
+        <input>What are the secondary colors?</input>
+        <output>The secondary colors (from primary light) are yellow, magenta, and cyan. eos1234</output>
+    </pair>
+    <pair>
+        <input>Who composed the Moonlight Sonata?</input>
+        <output>The Moonlight Sonata was composed by Ludwig van Beethoven. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is the force of gravity?</input>
+        <output>Gravity is a fundamental force of attraction between objects with mass. eos1234</output>
+    </pair>
+    <pair>
+        <input>How do I clear my browser cache?</input>
+        <output>Go to your browser's settings or history and find the option to clear browsing data, including cache and cookies. eos1234</output>
+    </pair>
+    <pair>
+        <input>What is encryption?</input>
+        <output>Encryption is the process of converting data into a code to prevent unauthorized access. eos1234</output>
+    </pair>
+</data>
